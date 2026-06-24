@@ -1,3 +1,11 @@
 This repository contains my solutions to the daily LeetCode challenge problems that I solve as part of my continuous learning and interview preparation journey. The primary goal of this repository is to document my problem-solving process, improve my understanding of Data Structures and Algorithms, and maintain consistency in coding practice.
 For each problem, I share the final logic and code implementation exactly in the format required on LeetCode. Rather than focusing on lengthy explanations, this repository emphasizes clean, optimized, and accepted solutions that demonstrate the core approach needed to solve the problem efficiently..
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0237-delete-node-in-a-linked-list) |
+<!---LeetCode Topics End-->
