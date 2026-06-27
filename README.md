@@ -8,4 +8,16 @@ For each problem, I share the final logic and code implementation exactly in the
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0237-delete-node-in-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0016-3sum-closest) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
