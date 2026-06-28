@@ -20,4 +20,20 @@ For each problem, I share the final logic and code implementation exactly in the
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0016-3sum-closest) |
+## String
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1392-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
