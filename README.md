@@ -45,4 +45,12 @@ For each problem, I share the final logic and code implementation exactly in the
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
