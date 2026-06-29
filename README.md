@@ -12,6 +12,7 @@ For each problem, I share the final logic and code implementation exactly in the
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0016-3sum-closest) |
+| [0054-spiral-matrix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,12 @@ For each problem, I share the final logic and code implementation exactly in the
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1392-longest-happy-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
