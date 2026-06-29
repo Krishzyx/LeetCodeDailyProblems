@@ -12,6 +12,7 @@ For each problem, I share the final logic and code implementation exactly in the
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0016-3sum-closest) |
+| [0046-permutations](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
@@ -53,4 +54,8 @@ For each problem, I share the final logic and code implementation exactly in the
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0060-permutation-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
