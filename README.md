@@ -25,6 +25,7 @@ For each problem, I share the final logic and code implementation exactly in the
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0131-palindrome-partitioning) |
 | [1392-longest-happy-prefix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
 |  |
@@ -58,4 +59,9 @@ For each problem, I share the final logic and code implementation exactly in the
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
