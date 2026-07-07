@@ -14,6 +14,7 @@ For each problem, I share the final logic and code implementation exactly in the
 | [0016-3sum-closest](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0054-spiral-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +65,8 @@ For each problem, I share the final logic and code implementation exactly in the
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0131-palindrome-partitioning) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
