@@ -15,6 +15,7 @@ For each problem, I share the final logic and code implementation exactly in the
 | [0046-permutations](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0054-spiral-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ For each problem, I share the final logic and code implementation exactly in the
 | [0131-palindrome-partitioning](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0131-palindrome-partitioning) |
 | [1392-longest-happy-prefix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Rolling Hash
 |  |
 | ------- |
