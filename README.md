@@ -35,6 +35,7 @@ For each problem, I share the final logic and code implementation exactly in the
 | [1392-longest-happy-prefix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3019-number-of-changing-keys](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/3019-number-of-changing-keys) |
 ## Rolling Hash
 |  |
 | ------- |
