@@ -19,6 +19,7 @@ For each problem, I share the final logic and code implementation exactly in the
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ For each problem, I share the final logic and code implementation exactly in the
 | ------- |
 | [0016-3sum-closest](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0016-3sum-closest) |
 | [2974-minimum-number-game](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ For each problem, I share the final logic and code implementation exactly in the
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/3024-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
