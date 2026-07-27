@@ -65,6 +65,7 @@ For each problem, I share the final logic and code implementation exactly in the
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0060-permutation-sequence) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2652-sum-multiples) |
