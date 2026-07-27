@@ -30,6 +30,7 @@ For each problem, I share the final logic and code implementation exactly in the
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0131-palindrome-partitioning) |
 | [1392-longest-happy-prefix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1392-longest-happy-prefix) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -76,4 +77,8 @@ For each problem, I share the final logic and code implementation exactly in the
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2974-minimum-number-game) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
