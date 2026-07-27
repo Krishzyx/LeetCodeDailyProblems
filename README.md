@@ -18,6 +18,7 @@ For each problem, I share the final logic and code implementation exactly in the
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/3024-type-of-triangle) |
 ## Two Pointers
@@ -37,6 +38,7 @@ For each problem, I share the final logic and code implementation exactly in the
 | [1392-longest-happy-prefix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/3019-number-of-changing-keys) |
 ## Rolling Hash
 |  |
