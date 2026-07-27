@@ -16,6 +16,7 @@ For each problem, I share the final logic and code implementation exactly in the
 | [0054-spiral-matrix](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0054-spiral-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2974-minimum-number-game) |
 ## Two Pointers
@@ -60,6 +61,7 @@ For each problem, I share the final logic and code implementation exactly in the
 | ------- |
 | [0060-permutation-sequence](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/0060-permutation-sequence) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Krishzyx/LeetCodeDailyProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Recursion
 |  |
 | ------- |
